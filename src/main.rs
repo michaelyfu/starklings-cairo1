@@ -18,7 +18,7 @@ use std::sync::{Arc, Mutex};
 use std::thread;
 use std::time::Duration;
 
-#[macro_use]
+#[macro_use] 
 mod ui;
 mod exercise;
 mod project;
